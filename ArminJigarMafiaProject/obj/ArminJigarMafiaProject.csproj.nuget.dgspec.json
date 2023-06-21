@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\c#\\ArminJigarMafiaProject\\ArminJigarMafiaProject\\ArminJigarMafiaProject.csproj": {}
+    "C:\\Users\\Roshan.f\\Source\\Repos\\ArminJigarMafiaProject\\ArminJigarMafiaProject\\ArminJigarMafiaProject.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\c#\\ArminJigarMafiaProject\\ArminJigarMafiaProject\\ArminJigarMafiaProject.csproj": {
+    "C:\\Users\\Roshan.f\\Source\\Repos\\ArminJigarMafiaProject\\ArminJigarMafiaProject\\ArminJigarMafiaProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\c#\\ArminJigarMafiaProject\\ArminJigarMafiaProject\\ArminJigarMafiaProject.csproj",
+        "projectUniqueName": "C:\\Users\\Roshan.f\\Source\\Repos\\ArminJigarMafiaProject\\ArminJigarMafiaProject\\ArminJigarMafiaProject.csproj",
         "projectName": "ArminJigarMafiaProject",
-        "projectPath": "E:\\Coding\\c#\\ArminJigarMafiaProject\\ArminJigarMafiaProject\\ArminJigarMafiaProject.csproj",
+        "projectPath": "C:\\Users\\Roshan.f\\Source\\Repos\\ArminJigarMafiaProject\\ArminJigarMafiaProject\\ArminJigarMafiaProject.csproj",
         "packagesPath": "C:\\Users\\Roshan.f\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\c#\\ArminJigarMafiaProject\\ArminJigarMafiaProject\\obj\\",
+        "outputPath": "C:\\Users\\Roshan.f\\Source\\Repos\\ArminJigarMafiaProject\\ArminJigarMafiaProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Roshan.f\\AppData\\Roaming\\NuGet\\NuGet.Config",

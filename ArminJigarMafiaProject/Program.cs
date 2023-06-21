@@ -62,7 +62,6 @@ if (players.Any(player => player.MafiaRole == null || player.ShahrvandRole == nu
     {
         int PlayerRandomIndex = random.Next(players.Count);
 
-        // Find a player who doesn't have any role assigned
         while (players[PlayerRandomIndex].MafiaRole != null || players[PlayerRandomIndex].ShahrvandRole != null)
         {
             PlayerRandomIndex = random.Next(players.Count);

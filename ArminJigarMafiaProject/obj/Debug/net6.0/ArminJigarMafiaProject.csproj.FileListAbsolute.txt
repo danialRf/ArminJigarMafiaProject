@@ -1,0 +1,15 @@
+E:\Coding\c#\ArminJigarMafiaProject\ArminJigarMafiaProject\obj\Debug\net6.0\ArminJigarMafiaProject.csproj.AssemblyReference.cache
+E:\Coding\c#\ArminJigarMafiaProject\ArminJigarMafiaProject\obj\Debug\net6.0\ArminJigarMafiaProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\c#\ArminJigarMafiaProject\ArminJigarMafiaProject\obj\Debug\net6.0\ArminJigarMafiaProject.AssemblyInfoInputs.cache
+E:\Coding\c#\ArminJigarMafiaProject\ArminJigarMafiaProject\obj\Debug\net6.0\ArminJigarMafiaProject.AssemblyInfo.cs
+E:\Coding\c#\ArminJigarMafiaProject\ArminJigarMafiaProject\obj\Debug\net6.0\ArminJigarMafiaProject.csproj.CoreCompileInputs.cache
+E:\Coding\c#\ArminJigarMafiaProject\ArminJigarMafiaProject\bin\Debug\net6.0\ArminJigarMafiaProject.exe
+E:\Coding\c#\ArminJigarMafiaProject\ArminJigarMafiaProject\bin\Debug\net6.0\ArminJigarMafiaProject.deps.json
+E:\Coding\c#\ArminJigarMafiaProject\ArminJigarMafiaProject\bin\Debug\net6.0\ArminJigarMafiaProject.runtimeconfig.json
+E:\Coding\c#\ArminJigarMafiaProject\ArminJigarMafiaProject\bin\Debug\net6.0\ArminJigarMafiaProject.dll
+E:\Coding\c#\ArminJigarMafiaProject\ArminJigarMafiaProject\bin\Debug\net6.0\ref\ArminJigarMafiaProject.dll
+E:\Coding\c#\ArminJigarMafiaProject\ArminJigarMafiaProject\bin\Debug\net6.0\ArminJigarMafiaProject.pdb
+E:\Coding\c#\ArminJigarMafiaProject\ArminJigarMafiaProject\obj\Debug\net6.0\ArminJigarMafiaProject.dll
+E:\Coding\c#\ArminJigarMafiaProject\ArminJigarMafiaProject\obj\Debug\net6.0\ref\ArminJigarMafiaProject.dll
+E:\Coding\c#\ArminJigarMafiaProject\ArminJigarMafiaProject\obj\Debug\net6.0\ArminJigarMafiaProject.pdb
+E:\Coding\c#\ArminJigarMafiaProject\ArminJigarMafiaProject\obj\Debug\net6.0\ArminJigarMafiaProject.genruntimeconfig.cache
